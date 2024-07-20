@@ -10,7 +10,7 @@ This project is a simple yet functional Todo App built using React and Vite. It 
 
 ## Live Demo
 
-Check out the live demo of the app [here](https://gkrizz.github.io/Todo_App/).
+Check out the live demo of the app 👆🏻[here](https://gkrizz.github.io/Todo_App/).
 
 ## Installation
 
